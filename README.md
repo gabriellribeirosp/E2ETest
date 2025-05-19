@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Projeto de Automação E2E com Selenium, Cucumber e Page Object Pattern
 
 ## Descrição
